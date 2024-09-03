@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HuDedong
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning Large Model.
-- 💞️ I’m looking to collaborate on LM.
+- 👀 I’m interested in Java Backend Development & machine learning.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 You can reach me by email 2291971440@qq.com.
 - 😄 Pronouns: Elsker.
 - ⚡ Fun fact: A handsome boy.
