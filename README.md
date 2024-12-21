@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HuDedong
-- 👀 I’m interested in Java Backend Development & machine learning.
+- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 You can reach me by email 2291971440@qq.com.
 - 😄 Pronouns: Elsker.
